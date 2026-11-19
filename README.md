@@ -1,4 +1,4 @@
-![QuantumPhotonics-Lab cover](assets/cover.png)
+![QuantumPhotonics-Lab cover](QuantumPhotonics-Lab%20cover.png)
 
 # QuantumPhotonics-Lab 🔦⚛️
 
